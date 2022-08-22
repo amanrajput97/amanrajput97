@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amanrajput97
+- 👋 Hi, I’m @ASR
 - 👀 I’m interested in Learning new tech stacks
 - 🌱 I’m currently learning Front end/ web development
 - 💞️ I’m looking to collaborate on Front end projects
